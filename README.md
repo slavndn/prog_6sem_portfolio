@@ -20,3 +20,10 @@
 [Лабораторная работа 7](https://colab.research.google.com/drive/12GqtshAZDbxVH4--c2X78g64YuHuKwsB?usp=sharing)
 
 [Лабораторная работа 8]( НЕ СДЕЛАЛ)
+
+
+## Выступления 
+
+[Pytorch и TensowFlow](https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=142592)
+
+[Упаковка в Python](https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=142946)
